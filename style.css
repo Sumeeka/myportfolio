@@ -4,6 +4,7 @@ body {
   padding: 0;
   background-color: #e8f0fe;
   color: #222;
+  scroll-behavior: smooth; /* 🔥 Smooth scrolling for anchor links */
 }
 
 header {
